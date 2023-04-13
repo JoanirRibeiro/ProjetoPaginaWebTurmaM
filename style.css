@@ -1,5 +1,6 @@
 .cabeçalho {
-    background-color: aqua;
+    displlay flex;
+    background-color:plum;
 }
 .cabeçalho-título1 {
     color:blue;
