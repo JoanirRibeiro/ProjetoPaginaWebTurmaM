@@ -2,7 +2,7 @@
     background-color: brown
 }
 .cabeçalho {
-    displlay flex;
+    display:flex;
     background-color:plum;
 }
 .cabeçalho-título1 {
