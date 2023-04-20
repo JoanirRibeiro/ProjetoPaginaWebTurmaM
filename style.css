@@ -3,7 +3,7 @@
     justify-content: center;
     background-color: #3C486B;
     margin: 0;
-    padding: 40px 40px;
+    padding: 40px, 40px;
 }
 
 .cabeçalho-título1 {
@@ -17,4 +17,6 @@
 
 .cabeçalho-imagem {
     width: 140px;
+    margin: 0;
+    padding: 40px, 40px;
 }
