@@ -1,5 +1,6 @@
 .cabeçalho {
     display: flex;
+    justify-content: center;
     background-color: #3C486B;
 }
 
