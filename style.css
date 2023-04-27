@@ -15,6 +15,14 @@
     padding: 5%, 5%;
 }
 
+.cabeçalho-lista-elemento1 {
+    display: inline-block;
+}
+
+.cabeçalho-lista-elemento2 {
+    display: inline-block;
+}
+
 .cabeçalho {
     color: white;
 }
