@@ -15,6 +15,12 @@
     padding: 5%, 5%;
 }
 
+.cabeçalho-título1 {
+    text-align: center;
+    margin: 0;
+    padding: 2% 2%;
+}
+
 .cabeçalho-lista-elemento1 {
     display: inline-block;
 }
