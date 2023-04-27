@@ -13,6 +13,12 @@
     background-color: #3C486B;
     margin: 0%;
     padding: 5%, 5%;
+    
+}
+
+.cabeçalho-imagem {
+    margin: 0;
+    padding: 2% 2%;
 }
 
 .cabeçalho-lista-elemento1 {
