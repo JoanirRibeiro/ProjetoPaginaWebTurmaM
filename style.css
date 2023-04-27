@@ -1,24 +1,30 @@
 .cabeçalho {
     display: flex;
-    justify-content: center;
+    justify-content:space-around;
     background-color: #3C486B;
-    margin: 0;
-    padding: 30px 30px;
+    margin: 0%;
+    padding: 5%, 5%;
 }
 
-.cabeçalho-título1 {
-    font-size: 55px;
-    color: white;
-}
-
-.cabeçalho-lista {
+.cabeçalho {
     color: white;
 }
 
 .cabeçalho-imagem {
-    width: 200px;
-    margin: 0;
-    padding: 40px 40px;
+    width: 240px;
+    height: 120px;
+    margin: 0%;
+    padding: 2%, 2%;
+}
+
+.cabeçalho-título1 {
+    text-align: center;
+    margin: 0%;
+    padding: 2% 2%;
+}
+
+.cabeçalho-título1{
+    font-size: 70px;
 }
 
 .Escola-de-tecnologia {
