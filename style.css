@@ -24,6 +24,7 @@
 .cabeçalho-lista-elemento1 {
     display: inline-block;
     padding: 2% 2%;
+    text-align: left;
 }
 
 .cabeçalho-lista-elemento2 {
