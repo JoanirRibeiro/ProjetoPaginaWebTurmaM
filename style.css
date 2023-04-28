@@ -12,8 +12,7 @@
     justify-content:space-around;
     background-color: #3C486B;
     margin: 0%;
-    padding: 10%, 10%;
-    
+    padding: 10%, 10%; 
 }
 
 .cabeçalho-lista-elemento1 {
@@ -33,8 +32,7 @@
 .cabeçalho-imagem {
     width: 210px;
     height: 120px;
-    padding-left: 0%;
-    
+    text-align: left;
 }
 
 .cabeçalho-título1 {
